@@ -16,7 +16,6 @@
   <img align="center" alt="Thiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Thiago-Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img aling="center" alt="Thiago-SharePoint height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sharepoint.svg">
   <img align="center" alt="Thiago-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   </div>
  
