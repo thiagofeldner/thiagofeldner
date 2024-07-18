@@ -47,8 +47,8 @@
    <a href="https://www.instagram.com/thiagofeldner/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a><br><br>
 
    <div>      
-      <img height="120em" src="https://github-readme-stats-thiagofeldners-projects.vercel.app/api/username=thiagofeldner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-      <img height="120em" src="https://github-readme-stats-thiagofeldners-projects.vercel.app/api/top-langs/?username=thiagofeldner&layout=compact&langs_count=7&theme=dracula">   
+      <img height="120em" src="https://github-readme-stats-git-master-thiago-feldners-projects.vercel.app/api/username=thiagofeldner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+      <img height="120em" src="https://github-readme-stats-git-master-thiago-feldners-projects.vercel.app/api/top-langs/?username=thiagofeldner&layout=compact&langs_count=7&theme=dracula">   
    </div>
 
   <!---
