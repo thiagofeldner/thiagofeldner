@@ -47,8 +47,11 @@
    <a href="https://www.instagram.com/thiagofeldner/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a><br><br>
 
    <div> 
-      <img height="120em" [ThiagoFeldner GitHub stats]src="https://github-readme-stats.vercel.app/api?username=thiagofeldner)](https://github.com/thiagofeldner/github-readme-stats">
-      <img height="120em" [ThiagoFeldner GitHub stats]src="https://github-readme-stats.vercel.app/api?username=thiagofeldner&show_icons=true&theme=radical">
+      <img height="120em" src="https://github-readme-stats.vercel.app/username=thiagofeldner" src="https://github.com/thiagofeldner/github-readme-stats">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thiagofeldner&show_icons=true&theme=radical">
+
+      <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/apiusername=thiagofeldner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagofeldner&layout=compact&langs_count=7&theme=dracula"/>   
    </div>
 
   <!---
