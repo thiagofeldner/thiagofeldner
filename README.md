@@ -19,10 +19,10 @@
     <img align="center" alt="Thiago-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Thiago-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Thiago-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-    <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
-    <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
-    <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
-    <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
+    <img align="center" alt="Thiago-C#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
+    <img align="center" alt="Thiago-Angular" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
+    <img align="center" alt="Thiago-SqlServer" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
+    <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
   </div>
   
   
@@ -35,9 +35,10 @@
       <img align="center" alt="Thiago-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Thiago-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Thiago-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-      <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
-      <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
-      <img align="center" alt="Thiago-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
+      <img align="center" alt="Thiago-C#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
+    <img align="center" alt="Thiago-Angular" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
+    <img align="center" alt="Thiago-SqlServer" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
+    <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
        
     </div> 
 
