@@ -48,7 +48,7 @@
 
    <div> 
       <img height="120em" src="(https://github.com/anuraghazra/github-readme-stats)">
-      <img height="120em" src="https://github-readme-stats.vercel.app/username=thiagofeldner")>
+      <img height="120em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))">
       <img height="120em" src="https://github-readme-stats.vercel.app/username=thiagofeldner&show_icons=true&theme=radical">
 
       <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/apiusername=thiagofeldner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
