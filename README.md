@@ -23,6 +23,7 @@
     <img align="center" alt="Thiago-Angular" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
     <img align="center" alt="Thiago-SqlServer" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
     <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
+    <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
   </div>
 
   
@@ -36,7 +37,7 @@
       <img align="center" alt="Thiago-Angular" height="40" width="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
       <img align="center" alt="Thiago-SqlServer" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
       <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000">
-       
+      <img align="center" alt="Thiago-Sharepoint" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
     </div> 
 
 
