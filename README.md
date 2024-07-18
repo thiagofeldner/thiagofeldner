@@ -46,7 +46,8 @@
    <a href="https://www.linkedin.com/in/thiago-feldner/" target="_blank"><img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
    <a href="https://www.instagram.com/thiagofeldner/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a><br><br>
 
-   <div>      
+<div> 
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thiagofeldner=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
       <img height="120em" src="https://github-readme-stats-git-master-thiago-feldners-projects.vercel.app/api/username=thiagofeldner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
       <img height="120em" src="https://github-readme-stats-git-master-thiago-feldners-projects.vercel.app/api/top-langs/?username=thiagofeldner&layout=compact&langs_count=7&theme=dracula">   
    </div>
